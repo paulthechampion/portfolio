@@ -44,7 +44,7 @@ export default function RightRail() {
             </div>
             <div className='experienceFlex'>
                 <div className='appear'>
-                    2021 ---- PRESENT
+                    2021 ---- 2024
                 </div>
                 
                 <div className='appear'>
