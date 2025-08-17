@@ -31,7 +31,7 @@ export default function LeftRail() {
        {isDesktopOrLaptop ? null : <FingerScroll/> } 
         <div className='main-intro appear'>
             <h2>Paul Enwerem</h2>
-            <p>Software Developer at S&P Global</p>
+            <p>Founder and CEO @ NV</p>
             <p className='iBuild' id='build'> <span className='blue-background'>Javascript Magikian & FullStack Software Developer
             </span>, seeking job opportunities to innovate and drive growth in your Company.
             </p>
