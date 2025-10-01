@@ -32,7 +32,7 @@ export default function LeftRail() {
         <div className='main-intro appear'>
             <h2>Paul Enwerem</h2>
             <p>Founder and CEO @ NV</p>
-            <p className='iBuild' id='build'> <span className='blue-background'>Javascript Magikian & FullStack Software Developer
+            <p className='iBuild' id='build'> <span className='blue-background'>Javascript Developer & FullStack Software Developer
             </span>, seeking job opportunities to innovate and drive growth in your Company.
             </p>
         </div>
@@ -84,7 +84,7 @@ export default function LeftRail() {
             </a>
         </div>
 
-        <div className='call-div'>CALL ME<a href='tel:4376013628' className='call-link'>(437) 601-3628 <FaPhone/></a></div>
+        <div className='call-div'>CALL ME<a href='tel:4376025658' className='call-link'>(437) 602-5658 <FaPhone/></a></div>
 
         <div className="socials-link" id="socials-link">
           <a href="https://github.com/paulthechampion" className="iconLink" target="_blank">  <FaGithub className="chatIcons"/></a>
