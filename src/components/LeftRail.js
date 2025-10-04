@@ -84,7 +84,7 @@ export default function LeftRail() {
             </a>
         </div>
 
-        <div className='call-div'>CALL ME<a href='tel:4376025658' className='call-link'>(437) 602-5658 <FaPhone/></a></div>
+        <div className='call-div'>CALL ME<a href='tel:4376058812' className='call-link'>(437) 605-8812 <FaPhone/></a></div>
 
         <div className="socials-link" id="socials-link">
           <a href="https://github.com/paulthechampion" className="iconLink" target="_blank">  <FaGithub className="chatIcons"/></a>
