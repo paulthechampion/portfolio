@@ -21,7 +21,7 @@ export default class MyForm extends React.Component {
                     <h1>MESSAGE ME</h1>
                     <img src={logo} alt='Logo' className='phone-logo'  onClick={() => {moveDown('left-rail', 'contact')}}/>
                 </div>
-                <p>Let's build something Amazing together!</p>
+                <p>Let's build something Wonderful and Amazing together!</p>
                 <div className="contactFlex">
                     <div>
                         <img src={astroMan}/>
