@@ -32,7 +32,7 @@ export default function LeftRail() {
         <div className='main-intro appear'>
             <h2>Paul Enwerem</h2>
             <p>Founder and CEO @ NV</p>
-            <p className='iBuild' id='build'> <span className='blue-background'>Javascript Developer & FullStack Software Developer
+            <p className='iBuild' id='build'> <span className='blue-background'>Javascript Creator & FullStack Software Developer
             </span>, seeking job opportunities to innovate and drive growth in your Company.
             </p>
         </div>
