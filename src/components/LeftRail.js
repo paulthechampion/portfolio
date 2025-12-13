@@ -33,7 +33,7 @@ export default function LeftRail() {
             <h2>Paul Enwerem</h2>
             <p>Founder and CEO @ NV</p>
             <p className='iBuild' id='build'> <span className='blue-background'>Javascript Creator & FullStack Software Developer
-            </span>, seeking job opportunities to innovate and drive growth in your Company.
+            </span>, currently building Nkechukwu's Vision (NV).
             </p>
         </div>
 
