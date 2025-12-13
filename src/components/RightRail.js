@@ -18,7 +18,7 @@ export default function RightRail() {
             </div>
             <p className='appear'>
                 In 2018, I began my journey into web development, with a strong focus
-                on <span className='blue'>Full Stack JavaScript Development.</span> Over the past 5 years, I've built a diverse portfolio
+                on <span className='blue'>Full Stack JavaScript Development.</span> Over the past 7 years, I've built a diverse portfolio
                 of projects for various clients, specializing in the <span className='blue'>MERN stack 
                 (MongoDB, Express, ReactJS, NodeJS), </span>  and staying at the forefront of web development trends.
             </p>
